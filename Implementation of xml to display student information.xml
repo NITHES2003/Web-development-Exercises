@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+<student>
+<firstname> Nithes</firstname>
+<lastname> Arunkumar</lastname>
+<address>
+<street> Main Road</street>
+<city>Chennai</city>
+<email>nq4537@gmail.com</email>
+<id>RA2011050010002</id>
+</address>
+</student>
+<student>
+<name>
+<firstname>Vijay</firstname>
+<lastname>Sharma</lastname>
+</name>
+<address>
+<street>100 feet Road</street>
+<city>Hyderabad</city>
+<email>vs102@srmist.edu.in</email>
+<id>RA2011050010005</id>
+</address>
+<student>
+<name>
+<firstname>Sai</firstname>
+<lastname>Ganesh</lastname>
+</name><address>
+<street>Ambani Road</street>
+<city>Mumbai</city>
+<email>sai@srmist.edu.in</email>
+<id>RA2011050010066</id>
+</address>
+</student >
+</student>
+</class>
