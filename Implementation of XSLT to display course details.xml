@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='course.xsl'?>
+<catalog>
+<cd>
+<Course-Name>Web 3 Development</Course-Name>
+<teacher>Dr K Dhanasekaran</teacher>
+<course-credit>3</course-credit>
+<semester>4</semester>
+</cd>
+<cd>
+<Course-Name>Formal Language And Automata</Course-Name>
+<teacher>Dr K Sornalakshmi</teacher>
+<course-credit>3</course-credit>
+<semester>4</semester>
+</cd>
+<cd>
+<Course-Name>Computer Networks</Course-Name>
+<teacher>Dr M Prakash</teacher>
+<course-credit>4</course-credit>
+<semester>4</semester>
+</cd>
+<cd>
+<Course-Name>Blockchain using Cryptography</Course-Name>
+<teacher>Dr S V Bharathi</teacher>
+<course-credit>3</course-credit>
+<semester>4</semester>
+</cd>
+<cd>
+<Course-Name>Programing for problem solving</Course-Name>
+<teacher>Dr K Dhanasekaran</teacher>
+<course-credit>4</course-credit>
+<semester>2</semester>
+</cd>
+<cd>
+<Course-Name>Data Structure and Algorithm</Course-Name>
+<teacher>Dr Arthi K</teacher>
+<course-credit>4</course-credit>
+<semester>3</semester>
+</cd>
+</catalog>
